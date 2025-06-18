@@ -111,5 +111,13 @@ Contributions are welcome! To contribute:
 
 If you find **Career Connect** useful, please give it a ⭐.
 
+## 📫 Contact
+
+**Vedant Yeole**  
+[GitHub Profile](https://github.com/VedsRockyeole)
+
+Project Link: [https://github.com/VedsRockyeole/career_connect](https://github.com/VedsRockyeole/career_connect)
+
+
 ---
 
