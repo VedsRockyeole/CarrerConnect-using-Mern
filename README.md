@@ -113,9 +113,3 @@ If you find **Career Connect** useful, please give it a ⭐.
 
 ---
 
-## 📬 Contact
-
-**Abhishek Rajput**  
-[GitHub Profile](https://github.com/exclusiveabhi)
-
-Project Link: [https://github.com/exclusiveabhi/career_connect.git](https://github.com/exclusiveabhi/career_connect.git)
